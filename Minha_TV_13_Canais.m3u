@@ -25,3 +25,13 @@ http://200.77.176.130:8000/udp/224.0.0.4:49152
 http://45.162.64.114/REDE_TV/index.m3u8
 #EXTINF:-1 tvg-id="CanalFutura.br@SD" group-title="Minha TV",Canal Futura (720p)
 http://45.162.64.114/FUTURA/index.m3u8
+#EXTINF:-1 tvg-id="Arte1.br@SD" group-title="Minha TV",Arte 1 (720p)
+http://170.83.16.50/ARTE_1/index.m3u8
+#EXTINF:-1 tvg-id="BandNews.br@SD" group-title="Minha TV",BandNews (720p)
+http://170.83.16.50/BAND_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="JovemPanNews.br@SD" group-title="Minha TV",Jovem Pan News (720p)
+http://186.219.52.187/jp_news/index.m3u8
+#EXTINF:-1 tvg-id="RecordNews.br@SD" group-title="Minha TV",Record News (720p)
+https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+#EXTINF:-1 tvg-id="BandSports.br@HD" group-title="Minha TV",BandSports (1080p)
+https://cdn-5.nxplay.com.br/BAND_SPORTS/index.m3u8
